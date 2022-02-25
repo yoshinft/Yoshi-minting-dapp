@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x230f166acfeDdCc161F08F2A607aAA8C711BcDd6",
+  "SCAN_LINK": "https://polygonscan.com/address/0x230f166acfeddcc161f08f2a607aaa8c711bcdd6",
+  "NETWORK": {
+    "NAME": "Polygon Mainet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Yoshi NFT",
+  "SYMBOL": "YOSHI",
+  "MAX_SUPPLY": 188,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/yoshi-nft",
+  "TWITTER": "Twitter",
+  "TWITTER_LINK": "https://twitter.com/yoshi_toon",
+  "SHOW_BACKGROUND": true
+}
